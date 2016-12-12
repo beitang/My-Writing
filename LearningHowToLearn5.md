@@ -42,3 +42,53 @@
 2. 注意，学习有解决方法的例子的时候，不能只关注具体的每一步，还要关注步骤之间的联系。
 3. 形成组块的三个步骤（但其实还有更多），集中注意力学习具体信息，理解学习的具体信息，理解上下文，什么时候可以用这个信息。
 4. 从下到上建立组块和从上到下看到组块具体可以使用在哪里，两者相互作用，帮助学习。
+
+## Illusions of Competence and the Importance of Recall
+> 1. Attempting to recall the material you are trying to learn - retrieval practice - is far more effective than simply rereading the material.
+> 2. "When you have the book open right in front of you, it provides the illusion that the material is also in your brain. But it's not. Because it can be easier to look at the book instead of recalling, students persist in their illusion - studying in a far less productive way."
+> 3. "Intention to learn is helpful only if it leads to the use of good learning strategies."
+> 4. You may be surprised to learn that highlighting and underlining must be done carefully - otherwise they can be not only ineffective but also misleading. It's as if the motion of your hand can fool you into thinking you've placed the concept in your brain.
+> 5. Using recall - mental retrieval of the key ideas - rather than passive rereading will make your study time more focused and effective. The only time rereading text seems to be effective is if you let time pass between rereading so that it becomes more of an exercise in spaced repetition.
+> 6. Along these same lines, always work through homework problems in math and science on your own. Some textbooks include solutions at the back of the book, but you should look at these only to check your answer.
+> 7. Try to touch again on something you're learning within a day, especially if it's new and rather challenging. This is why many professors recommend that, if at all possible, you rewrite your notes during the evening after a lecture. This helps to solidify newly forming chunks and reveals the holes in your understanding that professors just love to target on test. Knowing where the holes are, of course, is the first step toward getting them filled in.
+> 8. Once you've got something down, you can expand the time between "upkeep" repetitions to weeks or months - and eventually it can become close to permanent.
+> 9. Later, we'll discuss useful apps and programs that can help with learning. But for now, it's worth knowing that well-designed electronic flash card systems, such as Anki, have built into them the appropriate spaces repetition time to optimize the rate of learning new material!
+> 10. The chunking, which enlists long-term memory, frees the rest of your working memory to process other information.
+> 11. Merely glancing at the solution to a problem and thinking you truly know it yourself is one of the most common illusions of competence in learning.
+> 12. You must have information persisting in your memory if you are to master the material well enough to do well on tests and think creatively with it.
+> 13. The bigger your chunked mental library, the more easily you will be able to solve problems. Also, as you gain more experience in chunking, you will see that the chunks you are able to create are bigger - the ribbons are longer. You may think there are so many problems and concepts just in a single chapter of the science or math subject you are studying that there's no way to do them all! This is where the Law of Serendipity comes to play: Lady Luck Favors the one who tries. Just focus on whatever section you are studying. You'll find that once you put the first problem or concept in your library, whatever it is, then the second concept will go in a bit more easily. And the third more easily still. Not that all of this is a snap, but it does get easier.
+
+1. 回顾学习材料比简单重复阅读学习材料更有效。
+2. 当书本打开在眼前的时候，我们会有一个幻觉，觉得学习材料已经在我们脑中。我们在材料上划重点的时候，也容易误导自己已经记住了这些重点。
+3. 重复阅读只在间隔性重复时才有效，长期间隔性重复最终才能接近形成永久记忆。
+4. 做作业一定要靠自己，想清解题思路，课本后的解答用来检查答案。
+5. 当学习一项新的或者有挑战性的知识，最好在一天内再次接触所学内容，所以很多教授会推荐晚上重写笔记，这样可以巩固新学内容，发现自己理解的不足。
+6. 后续，书中会介绍一些可以帮助学习的apps和程序，其中提到了Anki，我在其他地方也看到有学习高手推荐Anki，看来后续得研究一下它。
+7. 一开始学习的时候，我们的working memory被完全占据，当知识组块，形成长期记忆后，可以释放我们的working memory。
+8. 只是看着解题答案就觉得自己真实掌握了知识是最普遍的学习能力幻觉之一。
+9. 脑中的组块越大，解决问题越容易。一开始会觉得一章学习资料中的概念和问题太多，但是只要坚持一下，一点一点概念的学起来，后续会越来越容易。
+
+## Practice Makes Permanent
+> 1. Incidentally, strengthening an initial learning pattern within a day after you first begin forming it is important. Without the strengthening, the pattern can quickly fade away. Later, we'll talk more about the importance of spaced repetition in learning.
+> 2. The challenge with repetition and practice, which lie behind the mind's creation of solid chunks, is that it can be boring.
+> 3. But you can't learn mathematics or science without also including a healthy dose of practice and repetition to help you build the chunks that will underpin your expertise.
+> 4. In the same amount of time, by simply practicing and recalling the material, students learned far more and at a much deeper level than they did using any other approach, including simply rereading the text a number of times or drawing concept maps that supposedly enriched the relationships in the materials under study.
+> 5. The retrieval process itself enhances deep learning and helps us begin forming chunks.
+> 6. Practicing math and science problems and concepts in a variety of situations helps you build chunks - solid neural patterns with deep, contextual richness. The fact is, when learning any new skill or discipline, you need plenty of varied practice with different contexts. This helps build the neural patterns you need to make the new skill a comfortable part of your way of thinking.
+
+1. 第一次学习的当天进行重复很重要，后续进行间隔性重复也很重要，这样才能加强大脑中的组块记忆。
+2. 不断重复和练习的挑战是无聊。
+3. 在同样学习时间的情况下，练习和回忆学习材料可以比其他方法学得更多更深入。其他方法包括重复阅读多遍，以及画我们认为很有用的概念联系图。
+4. 在不同情况和上下文中练习可以帮助构建组块。
+
+## Recall Material While Outside Your Usual Place of Study: The Value of Walking
+> 1. Doing something physically active is especially helpful when you have trouble grasping a key idea.
+> 2. In addition, recalling material when you are outside your usual place of study helps you strengthen your grasp of the material by viewing it from a different perspective.
+> 3. By thinking about the material while you are in various physical environments, you become indenpendent of cues from any one location, which helps you avoid the problem of the test room being different from where you originally learned the material.
+> 4. The more you do it, the easier it becomes, and the more useful it is.
+
+1. 当你在掌握一个关键概念时遇到麻烦时，活动一下身体可以帮助你。
+2. 在你平时学习以外的地方回忆学习资料，可以帮助加强掌握学习材料，从不同的角度。
+3. 在不同的物理环境中思考学习资料，可以帮助你从平时学习环境中的线索中独立出来，帮助你避免考试时在不同环境里的影响。
+4. 你做的越多，就越容易，也有用。
+
