@@ -92,3 +92,13 @@
 3. 在不同的物理环境中思考学习资料，可以帮助你从平时学习环境中的线索中独立出来，帮助你避免考试时在不同环境里的影响。
 4. 你做的越多，就越容易，也有用。
 
+## Interleaving -- Doing a Mixture of Different Kinds of Problems -- versus Overlearning
+> 1. Interleaving means practice by doing a mixture of different kinds of problems requiring different strategies.
+> 2. Continuing the study or practice after it is well understood is called overlearning. Overlearning can have its place - it can help produce an automaticity that is important when you are executing a serve in tennis or playing a perfect piano concerto. But be wary of repetitive overlearning during a single session in math and science learning - research has shown it can be a waste of valuable learning time.
+> 3. The reality is, mastering a new subject means learning to select and use the proper technique for a problem. The only way to learn that is by practicing with problems that require different techniques.
+> 4. You want your brain to become used to the idea that just knowing how to use a particular problem-solving technique isn't enough - you also need to know when to use it.
+> 5. It's best to write the initial solution, or diagram, or concept, out by hand. There's evidence that writing by hand helps get the ideas into mind more easily than if you type the answer.
+> 6. "How would I know how to do the problem this way if I saw it on a test mixed together with other problems and I didn't know it was from this section of the text? Students need to think of every homework problem in terms of test preparation and not as part of a task they are trying to complete."
+
+1. 继续学习已经很好理解的知识和技能是过度学习。对于需要把技能变成自动反应的学习，过度学习是有用的，但是对于学习数学之类的，是对宝贵时间的浪费，所以要不同情况不同处理。
+2. 一门学科需要很多不同技巧来解决不同的问题，需要交叉学习和练习不同的技巧，掌握合适使用哪种技巧，才能真正掌握一门学科。 
